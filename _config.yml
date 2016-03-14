@@ -1,0 +1,28 @@
+name: Mannell Motors
+favicon: null
+layout_spectrum: 0.36616708734072745
+typography_spectrum: 0.14418011670932174
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.39639586955308914
+  lightness: 0.0022510779090225697
+  saturation: 0.5511098487768322
+  rhythmicContrast: 0.3639913904480636
+purpose: []
