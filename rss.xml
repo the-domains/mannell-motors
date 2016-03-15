@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mannell Motors]]></title>
         <description><![CDATA[Mannell Motors]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mannell-motors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 23:18:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 02:11:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mannell-motors/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mannell Motors works on all makes & models specializing in Toyota , Nissan , Mitsubishi & Holden. These late model fit outs include Protection equipment, Winch Bars, Suspension upgrades & more.</p>]]></description>
+            <link>https://thegrid.ai/mannell-motors/5dd30701-3cdf-4796-a196-518ba5483fbf/index.html</link>
+            <guid isPermaLink="false">5dd30701-3cdf-4796-a196-518ba5483fbf</guid>
+            <pubDate>Tue, 15 Mar 2016 02:11:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://www.mannellmotors.com.au/</p>]]></description>
-            <link>undefinedd17d8025-d012-431f-9e98-123907df3460/index.html</link>
+            <link>https://thegrid.ai/mannell-motors/d17d8025-d012-431f-9e98-123907df3460/index.html</link>
             <guid isPermaLink="false">d17d8025-d012-431f-9e98-123907df3460</guid>
             <pubDate>Mon, 14 Mar 2016 23:17:48 GMT</pubDate>
         </item>
